@@ -2,7 +2,7 @@
 
 Auto Value Adjuster
 
-This component helps to auto adjust(add/sub) the given number value. Add/Sub operator value can be adjusted in component properties.
+This component helps to adjust(add/sub) the given number value by button clicks. Add/Sub operator value can be adjusted in component properties.
 
 
 • If you want to use the control without any customization, then just import the zip file using below path.
