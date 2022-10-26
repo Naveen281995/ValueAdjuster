@@ -1,0 +1,19 @@
+2022-10-26 11:08:06.746 - Info	
+Packing F:\PCF\NumberIncrementer\Solution\obj\Debug\Metadata to bin\Debug\Solution.zip
+
+2022-10-26 11:08:06.791 - Info	Processing Component: Entities
+2022-10-26 11:08:06.796 - Info	Processing Component: Roles
+2022-10-26 11:08:06.801 - Info	Processing Component: Workflows
+2022-10-26 11:08:06.804 - Info	Processing Component: FieldSecurityProfiles
+2022-10-26 11:08:06.805 - Info	Processing Component: Templates
+2022-10-26 11:08:06.807 - Info	Processing Component: EntityMaps
+2022-10-26 11:08:06.808 - Info	Processing Component: EntityRelationships
+2022-10-26 11:08:06.836 - Info	Processing Component: OrganizationSettings
+2022-10-26 11:08:06.838 - Info	Processing Component: optionsets
+2022-10-26 11:08:06.839 - Info	Processing Component: CustomControls
+2022-10-26 11:08:06.871 - Info	 - NumberIncreamentPCF.NumberIncreament
+2022-10-26 11:08:06.879 - Info	Processing Component: SolutionPluginAssemblies
+2022-10-26 11:08:06.880 - Info	Processing Component: EntityDataProviders
+2022-10-26 11:08:07.069 - Info	
+Unmanaged Pack complete.
+
